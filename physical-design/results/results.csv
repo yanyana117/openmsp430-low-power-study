@@ -1,0 +1,6 @@
+variant,status,setup_wns_ns,hold_wns_ns,tns_ns,fmax_mhz,die_area_um2,core_area_um2,stdcell_area_um2,utilization_pct,global_route_wirelength_um,detail_route_wirelength_um,drc_count,antenna_net_violations,antenna_pin_violations,total_power_w,vdd_worst_ir_drop_v,final_gds
+base,global route complete,34.17,0.202,0,63.17,89772.1,86753.2,64007.6,73.781,420720,,,0,0,0.00421946,,
+util30_ar10_pd040_pad1,clean final GDS,35.555,0.231,0,69.226,203527,187999,66966.7,35.621,496869,362584,0,0,0,0.0045051,0.00008075,yes
+util35_ar10_pd045,CTS complete,31.55,0.128,0,68.819,172109,160752,56842,35.36,,,,,,0.00213731,,
+util35_ar10_pd045_m2,placement complete,31.55,0.128,0,54.202,172109,160752,56842,35.36,,,,,,0.00213731,,
+util45_ar10_pd050,global route complete,34.723,0.2,0,65.46,131980,125570,65442.8,52.116,428055,,,0,0,0.00446571,,

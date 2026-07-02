@@ -1,0 +1,4 @@
+results/*.log
+sweep_*.log
+__pycache__/
+orfs-work/
